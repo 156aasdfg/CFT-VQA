@@ -1,2 +1,2 @@
 # CFT-VQA
-The code will be avalivable soon!
+The code will be available soon!
