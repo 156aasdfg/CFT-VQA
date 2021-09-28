@@ -1,5 +1,5 @@
 # EMPOWER COUNTERFACTUAL THINKING VIA CONTRASTIVE LEARNING FOR ROBUST VISUAL QUESTION ANSWERING
-The code will be available soon!
+The code will be available soon(after accepted)!
 
 
 ## Paper:
