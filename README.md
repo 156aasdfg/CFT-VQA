@@ -14,6 +14,6 @@ Run
     CUDA_VISIBLE_DEVICES=0 python main.py
 
 
-Our trained models on VQA-CP v2 can be obtained from BaiduYun：link will be here
+Our trained models on VQA-CP v2 can be obtained from BaiduYun：[link](www.baidu.com) will be here
 
 ## Citation
