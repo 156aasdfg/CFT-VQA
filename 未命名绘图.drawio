@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T14:13:31.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="c3rJsvyt0ls-5sZrgks8" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T08:28:35.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="eTDRsYZVuyA4m9D4XmWt" version="21.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2074" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
         <mxCell id="tXltCUCz6-KZ92w806bN-18" value="多模特征对齐" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="600" y="220" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tXltCUCz6-KZ92w806bN-19" value="多学生知识蒸馏" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="tXltCUCz6-KZ92w806bN-19" value="自蒸馏及多视图集成" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="600" y="330" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tXltCUCz6-KZ92w806bN-20" value="去偏泛化预测" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
